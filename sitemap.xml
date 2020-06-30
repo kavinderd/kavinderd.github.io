@@ -13,7 +13,32 @@
   </url>
   
   <url>
+    <loc>https://kavinderd.github.io/categories/</loc>
+    <lastmod>2020-06-30T16:17:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kavinderd.github.io/tags/cpp/</loc>
+    <lastmod>2020-06-30T16:17:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kavinderd.github.io/tags/git/</loc>
+    <lastmod>2020-06-30T16:17:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kavinderd.github.io/categories/learning/</loc>
+    <lastmod>2020-06-30T16:17:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kavinderd.github.io/post/</loc>
+    <lastmod>2020-06-30T16:17:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kavinderd.github.io/tags/</loc>
     <lastmod>2020-06-30T16:17:05-07:00</lastmod>
   </url>
   
@@ -30,14 +55,6 @@
   <url>
     <loc>https://kavinderd.github.io/about/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kavinderd.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kavinderd.github.io/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Kavinder&#39;s Blog</title>
+    <link>https://kavinderd.github.io/tags/git/</link>
+    <description>Recent content in git on Kavinder&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2020 16:17:05 -0700</lastBuildDate>
+    
+	<atom:link href="https://kavinderd.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6/30/20 Learning Log</title>
+      <link>https://kavinderd.github.io/post/6_30_20_learning_log/</link>
+      <pubDate>Tue, 30 Jun 2020 16:17:05 -0700</pubDate>
+      
+      <guid>https://kavinderd.github.io/post/6_30_20_learning_log/</guid>
+      <description>Some Git Knowledge:
+ Instead of using GIT_SSH_COMMAND to override the default ssh configuration, you can also set a specific ssh command at the repo level with `git config core.sshCommand &amp;ldquo;ssh -i ~/.ssh/my_other_key&amp;rdquo;  Some C++ Knowledge:
+ I thought typedef was the only way to create a type alias. The same can be done with using Alias = Original.  </description>
+    </item>
+    
+    <item>
+      <title>6/26/20 Learning Log</title>
+      <link>https://kavinderd.github.io/post/6_26_20_learning_log/</link>
+      <pubDate>Fri, 26 Jun 2020 08:37:05 -0700</pubDate>
+      
+      <guid>https://kavinderd.github.io/post/6_26_20_learning_log/</guid>
+      <description>This is a record of anything I learn on the day. This is an effort to make learning more purposeful. Posting this in a blog ought to be somewhat of a motivator.
+Git: I was getting tired of having to remember/lookup my current branch when pushing to origin. git branch --show-current will provide that. So instead git push origin \(git branch &amp;ndash;show-current)`ssg
+Git: GIT_SSH_COMMAND=&#39;&amp;lt;COMMAND&amp;gt;&#39; to specify a specific ssh command when pushing a git repo.</description>
+    </item>
+    
+  </channel>
+</rss>
