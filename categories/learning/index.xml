@@ -6,10 +6,19 @@
     <description>Recent content in learning on Kavinder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 16:17:05 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 10:36:41 -0700</lastBuildDate>
     
 	<atom:link href="https://kavinderd.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7/1/20 Learning Log</title>
+      <link>https://kavinderd.github.io/post/7_1_20_learning_log/</link>
+      <pubDate>Thu, 02 Jul 2020 10:36:41 -0700</pubDate>
+      
+      <guid>https://kavinderd.github.io/post/7_1_20_learning_log/</guid>
+      <description>Learned some minor cmake and systems stuff</description>
+    </item>
     
     <item>
       <title>6/30/20 Learning Log</title>
